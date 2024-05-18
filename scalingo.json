@@ -1,0 +1,25 @@
+{
+  "name": "sx",
+  "stack": "scalingo-22",
+  "description": "sx",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/seav1/sx",
+  "website": "https://scalingo.com",
+  "env": {
+    "NEZHA_SERVER": {
+      "description": "nz",
+      "value": "x.x.x"
+    },    
+    "NEZHA_KEY": {
+      "description": "nz key",
+      "value": "xx"
+    },
+    "ARGO_AUTH": {
+      "description": "ago key",
+      "value": "xx"
+    }    
+  },  
+  "scripts": {
+    "first-deploy": "npm start &"
+  }
+}
