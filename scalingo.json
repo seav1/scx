@@ -18,9 +18,6 @@
       "value": "xx"
     }    
   },  
-  "scripts": {
-    "first-deploy": "npm start &"
-  },
   "addons": [
     {"plan": "tcp-gateway:tcplb"}
   ]  
