@@ -17,8 +17,5 @@
       "description": "ago key",
       "value": "xx"
     }    
-  },  
-  "addons": [
-    {"plan": "tcp-gateway:tcplb"}
-  ]  
+  }
 }
